@@ -1,0 +1,12 @@
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\bin\Debug\WindowsApplication25.exe.config
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.Form1.resources
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.Resources.resources
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.vbproj.GenerateResource.Cache
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\bin\Debug\WindowsApplication25.exe
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\bin\Debug\WindowsApplication25.pdb
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\bin\Debug\WindowsApplication25.xml
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.exe
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.xml
+c:\users\punyaripki\onedrive\documents\visual studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.pdb
+C:\Users\punyaripki\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.vbprojResolveAssemblyReference.cache
+C:\Users\punyaripki\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication25\WindowsApplication25\obj\Debug\WindowsApplication25.Form2.resources
